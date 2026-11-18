@@ -25,5 +25,5 @@ For a revision, say what you want changed. The planner suggests an adjustment, a
 
 ## Files
 
-- system-prompt.md contains the original Assignment 2 prompt and the revised prompt with the menu and trip-revision activity.
-- The repository history preserves the original prompt on main; the conversational features are developed on the conversational-features branch.
+- system-prompt.md on the conversational-features branch contains the revised prompt with the menu and trip-revision activity.
+- The initial commit on main preserves the original Assignment 2 prompt; the revised prompt is developed on the conversational-features branch.
